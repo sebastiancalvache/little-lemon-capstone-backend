@@ -2,6 +2,6 @@ auth/token/login/
 auth/users/
 api-token-auth/
 restaurant/booking/tables/
-restaurant/booking/tables/<int:pk>
+restaurant/booking/tables/<int:pk>/
 restaurant/menu/
-restaurant/menu/<int:pk>
+restaurant/menu/<int:pk>/
